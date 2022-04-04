@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-cashfree">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="cashfree" clip-path="url(#clip-cashfree)">
+    <g id="Cashfree-light" transform="translate(0.889 2.6)">
+      <path id="Path_696" data-name="Path 696" d="M26.17,5.439A4.169,4.169,0,0,0,22,9.57H37.4a4.177,4.177,0,0,0,4.17-4.17H26.17Z" transform="translate(-8.902 0)" fill="#04ab61"/>
+      <path id="Path_697" data-name="Path 697" d="M22,9.57A4.177,4.177,0,0,1,26.17,5.4h0V20.8A4.177,4.177,0,0,1,22,24.973h0Z" transform="translate(-8.902 0)" fill="#04ab61"/>
+      <path id="Path_698" data-name="Path 698" d="M36.2,19.8v4.17h4.826A4.177,4.177,0,0,0,45.2,19.8h-9Z" transform="translate(-17.62 -8.841)" fill="#fbb016" fill-rule="evenodd"/>
+      <path id="Path_699" data-name="Path 699" d="M7.5,23.969a4.177,4.177,0,0,1,4.17-4.17h0V35.2a4.177,4.177,0,0,1-4.17,4.17h0Z" transform="translate(0 -8.841)" fill="#fbb016"/>
+    </g>
+  </g>
+</svg>

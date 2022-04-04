@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <clipPath id="clip-litecoin">
+      <rect width="46" height="46"/>
+    </clipPath>
+  </defs>
+  <g id="litecoin" clip-path="url(#clip-litecoin)">
+    <g id="ltc" transform="translate(0.354 -0.361)">
+      <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="23.5" cy="23" rx="23.5" ry="23" transform="translate(-0.355 0.361)" fill="#345d9d"/>
+      <path id="Path_626" data-name="Path 626" d="M11.067,24.247,9,25.049l1-4,2.092-.84L15.1,8h7.431l-2.2,8.977,2.043-.827-.985,3.984-2.067.827L18.1,26.007H29.283L28.018,31.18H9.365Z" transform="translate(4.039 3.59)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-contests">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="contests" clip-path="url(#clip-contests)">
+    <g id="noun_movie_ticket_1614524" data-name="noun_movie ticket_1614524" transform="translate(5.841 -1.053)">
+      <g id="Group_519" data-name="Group 519" transform="translate(-3.841 6.159)">
+        <path id="Path_638" data-name="Path 638" d="M6.159,981.747l3.194,3.193a4.516,4.516,0,0,1,6.387,6.387l3.194,3.193,15.387-15.387L32,976.812l1.161-1.161,2.323,2.323,6.677-6.677L38.966,968.1a4.516,4.516,0,0,1-6.387-6.387l-3.194-3.193L22.708,965.2l2.323,2.323-1.161,1.161-2.323-2.323L6.159,981.747Zm11.613-6.968,3.792,1.615,3.157-2.794-.445,4.146,3.556,2.068-4.074.953-.953,4.074-2.069-3.556-4.146.444,2.794-3.157Zm7.258-4.936,1.161-1.161,2.323,2.322-1.161,1.161Zm3.484,3.484,1.161-1.161L32,974.489l-1.161,1.161Z" transform="translate(-6.159 -961.627)" fill="#454545"/>
+      </g>
+    </g>
+  </g>
+</svg>

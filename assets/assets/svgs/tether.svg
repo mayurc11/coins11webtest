@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <clipPath id="clip-tether">
+      <rect width="46" height="46"/>
+    </clipPath>
+  </defs>
+  <g id="tether" clip-path="url(#clip-tether)">
+    <g id="usdt" transform="translate(-0.43 -0.361)">
+      <circle id="Ellipse_36" data-name="Ellipse 36" cx="23" cy="23" r="23" transform="translate(0.43 0.361)" fill="#26a17b"/>
+      <path id="Path_627" data-name="Path 627" d="M23.138,21.675v0c-.159.012-.981.061-2.814.061-1.463,0-2.493-.043-2.856-.061v0c-5.633-.248-9.837-1.229-9.837-2.4s4.2-2.153,9.837-2.4V20.7c.368.026,1.423.088,2.88.088,1.749,0,2.625-.072,2.789-.087V16.872c5.621.251,9.815,1.231,9.815,2.4s-4.194,2.151-9.815,2.4m0-5.2V13.046h7.844V7.819H9.625v5.227h7.844v3.426C11.094,16.765,6.3,18.028,6.3,19.541s4.794,2.774,11.169,3.068V33.594h5.669V22.607c6.364-.293,11.147-1.555,11.147-3.066S29.5,16.768,23.138,16.474" transform="translate(2.827 3.509)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

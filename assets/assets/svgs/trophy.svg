@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-wins">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="wins" clip-path="url(#clip-wins)">
+    <g id="noun_Winning_trophy_1313966" data-name="noun_Winning trophy_1313966" transform="translate(110 -39.4)">
+      <g id="Group_430" data-name="Group 430" transform="translate(-103 42.4)">
+        <g id="Group_429" data-name="Group 429" transform="translate(0 0)">
+          <g id="Group_426" data-name="Group 426" transform="translate(3.662 20.994)">
+            <path id="Path_496" data-name="Path 496" d="M64.792,56.776a2.737,2.737,0,0,0-.885-3.48,2.6,2.6,0,0,0-3.3.354,2.78,2.78,0,0,0-.59,3.185" transform="translate(-52.555 -52.86)" fill="#454545"/>
+            <path id="Path_497" data-name="Path 497" d="M65.291,64.375,64.722,60.6H55.169L54.6,64.375" transform="translate(-50.24 -56.035)" fill="#454545"/>
+            <path id="Path_498" data-name="Path 498" d="M42.965,108.564H58.6c1.059,0,1.907-1.18,1.907-2.6V104.2H41.1v1.769C41.1,107.444,41.948,108.564,42.965,108.564Z" transform="translate(-41.1 -95.271)" fill="#454545"/>
+          </g>
+          <g id="Group_427" data-name="Group 427">
+            <path id="Path_500" data-name="Path 500" d="M48,16.4v9.378a9.126,9.126,0,0,0,9.179,9.083h0a9.126,9.126,0,0,0,9.179-9.083V16.4ZM59.777,29.021l-2.6-1.887-2.6,1.887.981-3.008-2.6-1.887H56.2l.981-3.008.981,3.008h3.233l-2.6,1.887Z" transform="translate(-43.872 -16.4)" fill="#454545"/>
+            <path id="Path_501" data-name="Path 501" d="M79.2,19h4.6c-.118.649-.472,3.952-1.769,5.367a8.046,8.046,0,0,1-2.713,1.887" transform="translate(-57.067 -17.467)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
+            <path id="Path_502" data-name="Path 502" d="M45.6,19H41c.118.649.472,3.952,1.769,5.367a8.046,8.046,0,0,0,2.713,1.887" transform="translate(-41 -17.467)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+          <g id="Group_428" data-name="Group 428" transform="translate(12.365 13.405)">
+            <rect id="Rectangle_179" data-name="Rectangle 179" width="1.887" height="9.731" fill="#454545"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1491 @@
+{
+  "app_name": "Coins11",
+  "common": {
+    "game_up_down" : "Up / Down",
+    "game_updown" : "Up/Down",
+    "game_coins_11" : "Coins 11",
+    "game_coins11" : "Coins11",
+    "promo_players" : "1+ Million",
+    "promo_trust" : "Trusted Players",
+    "promo_secure" : "100% SECURE",
+    "promo_coins" : "10+ Million Coins",
+    "promo_prize" : "Monthly Prizes",
+    "share_message": "Please use my Refer Code {code} in Coins11 {link} #coins11 #ReferFriend #FantasyGame",
+    "app_version": "Version",
+    "support_email": "support@coins11.com",
+    "app_tag_line":"Best Cryptocurrency Game",
+    "txt_discard":"Discard Changes",
+    "txt_leave_game":"Changes will not be saved. Do you want to proceed?",
+    "btn_discard": "Discard",
+    "btn_cancel": "Cancel",
+    "app_restart_dialog":{
+      "txt_title":"Change Language",
+      "txt_android_sub_title":"Are you sure you want to change this language?",
+      "txt_ios_sub_title":"To change the language, you must restart the application; do you want to restart?",
+      "btn_cancel":"Cancel",
+      "btn_confirm":"Confirm",
+      "notification_title":"Language",
+      "notification_sub_title":"The app language have been successfully changed!"
+    }
+  },
+  "navigation": {
+    "profile" : "Profile",
+    "games" : "My Games",
+    "play" : "Play",
+    "board" : "Board",
+    "more" : "More"
+  },
+  "error": {
+    "generic_title" : "Error",
+    "generic_info" : "Oops, something went wrong. Please try again later.",
+    "account_status" : "This account has been suspended. Contact our support team for more information.",
+    "press_back": "Press Back Again to Exit App"
+  },
+  "local_notifications": {
+    "sorry_can_not_remind": "Sorry!, You can't set reminder because of bidding time is over. ",
+    "reminder_created_successfully": "Reminder created successfully.",
+    "reminder_cancel": "Reminder is cancelled.",
+    "remind_before_minus": "Remind me before {} mins",
+    "when_the_game_live": "When the game live",
+    "btn_reminder_cancel": "Cancel"
+  },
+  "common_messages": {
+    "txn_id_code_copy": "Transaction ID is copied to clipboard",
+    "verification_code_copy": "Verification Code is copied to clipboard",
+    "referral_code_copy": "Referral Code is copied to clipboard",
+    "promo_code_copy": "Promo Code is copied to clipboard",
+    "copied":"is copied to clipboard",
+    "invalid_referral_code":"Invalid referral code",
+    "no_permission":"To function properly, Camera needs your permission. Please enable it in the settings app to continue ",
+    "address_copy":"Wallet Address is copied to clipboard",
+    "destination_copy":"Tag/Memo is copied to clipboard",
+    "gps_note":"To keep playing and depositing money at Coins11, you must allow GPS permission and turn on your GPS location when requested.",
+    "vpn_disable":"It it seems that you are using an anonymous proxy or VPN. To earn free coins from offerwall, you must disable it.",
+    "up":"UP",
+    "down":"DOWN",
+    "win":"WIN",
+    "lose":"LOSE",
+    "game_rules":"Game Rules",
+    "download_popup": {
+      "downloading_update": "Downloading Update",
+      "install_update": "Install Update",
+      "your_update_is_ready_to_install": "Your update is ready to install.",
+      "install_now": "Install Now",
+      "install_later": "Install Later"
+    },
+    "game_over_dialog":{
+      "title":"Game Session Ended",
+      "info":"The gaming session has ended. Return to My Games to view your Results and Winnings.",
+      "btn_dismiss":"Dismiss"
+    },
+    "logout_popdialog":{
+      "title":"Logout",
+      "info":"Are you sure you want to logout from Coins11?",
+      "btn_cancel":"Cancel",
+      "btn_log_out":"Log Out"
+    }
+  },
+  "landing_screen": {
+    "btn_register" : "REGISTER NOW",
+    "txt_invite" : "Invited by a friend?",
+    "lnk_referral" : "Enter Code",
+    "txt_already" : "Already a user?",
+    "lnk_login" : "Login",
+    "title" : "Best Cryptocurrency Game"
+  },
+  "register_screen": {
+    "title" : "Register Now",
+    "txt_referral" : "Referral Code",
+    "hnt_referral" : "Enter the referral code!",
+    "err_referral" : "Enter a valid referral code",
+    "err_referral_exist" : "Referral code does not exit",
+    "txt_mobile" : "Mobile Number",
+    "inf_mobile" : "OTP verification code will be sent to your mobile number",
+    "err_mobile" : "Enter a valid mobile number",
+    "err_mobile_exist" : "Mobile Number is already registered",
+    "txt_email" : "Email Address",
+    "hnt_email" : "No Spam. We Promise!",
+    "err_email" : "Enter a valid email address",
+    "err_email_exist" : "Email Address is already registered",
+    "txt_password" : "Password",
+    "hnt_password" : "Must be 8 to 16 characters with 1 number 1 alphabet & 1 symbol",
+    "err_password" : "Enter a valid password",
+    "err_password_valid" : "Password must be 8 to 16 characters with 1 number 1 alphabet & 1 symbol",
+    "btn_register" : "Register",
+    "lnk_terms" : "By registering, I agree to Coins11’s Terms & Conditions and Privacy Policy",
+    "txt_invite" : "Invited by a friend?",
+    "lnk_referral" : "Enter Code",
+    "txt_already" : "Already a user?",
+    "lnk_login" : "Login",
+    "txt_not" : "Not a user?",
+    "lnk_register" : "Register"
+  },
+  "login_screen": {
+    "txt_title" : "Log In to Start Playing",
+    "txt_subtitle" : "Enter mobile number & password to get started",
+    "txt_mobile": "Mobile Number",
+    "err_mobile" : "Enter a valid mobile number",
+    "err_mobile_not" : "Mobile Number is not registered",
+    "txt_password": "Password",
+    "err_password" : "Enter a valid password",
+    "err_password_valid" : "Password must be 8 to 16 characters with 1 number 1 alphabet & 1 symbol",
+    "err_password_invalid" : "The password you entered is incorrect. Please try again.",
+    "btn_login" : "Login",
+    "txt_forget" : "Forgot password?",
+    "lnk_reset" : "Reset",
+    "txt_not" : "Not a user?",
+    "lnk_register" : "Register",
+    "otp_title" : "OTP Verification",
+    "otp_inf_info" : "Please Enter the OTP verification code to verify your account. We have send you a verification code to",
+    "otp_txt_otp" : "OTP",
+    "otp_hnt_otp" : "One-time verification code",
+    "otp_err" : "Enter a valid OTP",
+    "otp_err_invalid" : "The OTP you entered is invalid. Please enter the correct OTP.",
+    "otp_tst_success" : "New OTP has been Generated & Sent Successfully",
+    "otp_btn_verify" : "Verify",
+    "otp_txt_didnt" : "Didn't receive a code?",
+    "otp_lnk_resend" : "Resend"
+  },
+  "reset_screen": {
+    "title" : "Reset Password",
+    "txt_by_mobile" : "By Mobile",
+    "inf_by_mobile" : "Enter your registered mobile number and we'll send you an OTP verification code to reset your password.",
+    "txt_mobile" : "Mobile Number",
+    "hnt_mobile" : "Enter your registered mobile number",
+    "err_mobile" : "Enter a valid mobile number",
+    "err_mobile_not" : "Mobile Number is not registered",
+    "txt_by_email" : "By Email",
+    "inf_by_email" : "Enter your registered email address and we'll send you an OTP verification code to reset your password.",
+    "txt_email" : "Email Address",
+    "hnt_email" : "Enter your registered email address",
+    "err_email" : "Enter a valid email address",
+    "err_email_not" : "Email Address is not registered",
+    "btn_send" : "Send",
+    "inf_otp" : "Please Enter the OTP verification code to verify your account. We have send you a verification code to",
+    "txt_otp" : "OTP",
+    "hnt_otp" : "One-time verification code",
+    "otp_err" : "Enter a valid OTP",
+    "otp_err_invalid" : "The OTP you entered is invalid. Please enter the correct OTP.",
+    "txt_new_password" : "Create New Password",
+    "hnt_new_password" : "Must be 8 to 16 characters with 1 number 1 alphabet & 1 symbol",
+    "err_new_password" : "Enter your new password",
+    "txt_confirm_password" : "Confirm New Password",
+    "hnt_confirm_password" : "Must be same as above, new password",
+    "err_confirm_password" : "Enter confirm new password",
+    "err_password_match" : "Password and Confirm Password does not match",
+    "err_password_invalid" : "Password must be 8 to 16 characters with 1 number 1 alphabet & 1 symbol",
+    "btn_change" : "Change",
+    "txt_didnt" : "Didn't receive a code?",
+    "lnk_resend" : "Resend"
+  },
+  "profile_screen": {
+    "title": "My Profile",
+    "txt_loyalty": "Loyalty Points",
+    "txt_available": "Available Coins",
+    "btn_deposit": "Deposit",
+    "btn_withdrawal": "Withdrawal",
+    "btn_transactions": "All Transactions",
+    "txt_contests": "Contests",
+    "txt_winnings": "Winnings",
+    "txt_bonus": "Bonus",
+    "txt_commission": "Commission",
+    "txt_refer": "Invite Friend & Earn Coins",
+    "lnk_kyc": "Identity Verification",
+    "lnk_edit": "Edit Profile",
+    "lnk_change": "Change Password",
+    "lnk_setting": "Settings",
+    "lnk_logout": "Logout",
+    "deposit_popup": {
+      "title": "Deposit by Fiat/Crypto",
+      "txt_deposits": "Deposits",
+      "txt_fiat": "Deposit by Fiat",
+      "txt_crypto": "Deposit by Crypto",
+      "btn_cash": "Add Cash",
+      "btn_crypto": "Add Crypto"
+    },
+    "withdrawal_popup": {
+      "title": "Withdrawal in Fiat/Crypto",
+      "txt_winnings": "Winnings",
+      "txt_commission": "Commission",
+      "txt_withdraw": "Withdrawal In",
+      "btn_cash": "Cash",
+      "btn_crypto": "Crypto"
+    },
+    "change_picture_screen": {
+      "title": "Change Profile Picture",
+      "btn_change": "Change",
+      "txt_info": "To create a new avatar, click the spinning button, or tap on the avatar."
+    },
+    "edit_profile_screen": {
+      "title": "Edit Profile",
+      "txt_username": "Username",
+      "hnt_username": "Enter username",
+      "txt_name": "Full Name",
+      "hnt_name": "Enter full name",
+      "txt_email": "Email",
+      "hnt_email": "Enter email address",
+      "txt_mobile": "Mobile Number",
+      "hnt_mobile": "Enter mobile number",
+      "txt_birthdate": "Date of Birth",
+      "hnt_birthdate": "Enter birthdate",
+      "txt_gender": "Gender",
+      "opt_male": "Male",
+      "opt_female": "Female",
+      "opt_other": "Other",
+      "txt_country": "Select Country",
+      "btn_save": "Save",
+      "btn_verify":"Verify",
+      "errors": {
+        "username": "Enter a valid username",
+        "username_length": "Username must be between 5 to 25 characters",
+        "full_name": "Enter a valid full name",
+        "email" : "Enter a valid email address",
+        "email_exist" : "Email Address is already registered",
+        "mobile" : "Enter a valid mobile number",
+        "mobile_exist" : "Mobile Number is already registered",
+        "dob" : "Enter a valid birth date. You have to be 18 or older to join Coins11",
+        "gender": "Select your gender",
+        "country": "Select your country"
+      }
+    },
+    "change_password_screen": {
+      "title": "Change Password",
+      "txt_old": "Current Password",
+      "txt_new": "New Password",
+      "txt_confirm": "Confirm New Password",
+      "btn_update": "Update",
+      "old": "Current",
+      "new": "New",
+      "confirm": "Confirm",
+      "errors": {
+        "old_password": "Enter your current password",
+        "new_password": "Enter your new password",
+        "confirm_password": "Enter confirm new password",
+        "confirm_password_issue" : "Confirm Password must be same as above, new password",
+        "password_format": "Password must be 8 to 16 characters with 1 number 1 alphabet & 1 symbol"
+      }
+    },
+    "otp_verification": {
+      "otp_title" : "OTP Verification",
+      "otp_inf_info" : "Please Enter the OTP verification code to verify your mobile/email. We have send you a verification code to",
+      "otp_txt_otp" : "OTP",
+      "otp_hnt_otp" : "One-time verification code",
+      "otp_err" : "Enter a valid OTP",
+      "otp_err_invalid" : "The OTP you entered is invalid. Please enter the correct OTP.",
+      "otp_tst_success" : "New OTP has been Generated & Sent Successfully",
+      "otp_btn_verify" : "Verify",
+      "otp_txt_didnt" : "Didn't receive a code?",
+      "otp_lnk_resend" : "Resend"
+    }
+  },
+  "kyc_screen": {
+    "title": "Identity Verification",
+    "tab_identity": "Verify Identity",
+    "tab_bank": "Verify Bank",
+    "tab_upi": "Verify UPI",
+    "txt_id_title": "Verify Your Identity",
+    "txt_id_info": "You need to submit your valid proof of identity before you withdraw funds.",
+    "txt_bank_title": "Verify Your Bank Detail",
+    "txt_bank_info": "You will need to verify your bank details before you withdraw funds.",
+    "txt_upi_title": "Verify Your UPI",
+    "txt_upi_info": "You will need to verify your UPI before you withdraw funds.",
+    "txt_file": "Choose File",
+    "txt_attachment": "Attachment",
+    "txt_gallery": "Upload From Gallery",
+    "txt_take": "Take Photo",
+    "txt_filesize": "Accepted formats: JPG/JPEG/PNG. Size: Upto 10MB",
+    "txt_info": "We will process most of verification requests within 24 hours, although some requests may take up to 3 working days to get processed.",
+    "hnt_upload_success": "Document Uploaded Successfully",
+    "txt_note":"Note",
+    "kyc_status_title":"",
+    "kyc_status_info":"You can only submit KYC documents if you have enough minimum winning or commission coins to withdraw and meet the withdrawal requirements.",
+    "identity": {
+      "txt_country": "Country",
+      "hnt_country": "Select ID Country",
+      "txt_document": "Identity Document",
+      "hnt_document": "Select Document Type",
+      "txt_front": "Upload ID Front Side Photo",
+      "txt_back": "Upload ID Back Side Photo",
+      "txt_number": "ID Number",
+      "hnt_number": "Document ID Number",
+      "txt_name": "Name as on ID Document",
+      "hnt_name": "Full name as on document",
+      "txt_dob": "Date of Birth",
+      "btn_verify": "Verify Identity",
+      "popup": {
+        "front_title": "Upload ID Front Side Photo",
+        "front_info": "Please ensure Full Name, Photo and ID Number Clearly Visible",
+        "back_title": "Upload ID Back Side Photo",
+        "back_info": "Please ensure All the details are Clearly Visible"
+      },
+      "errors": {
+        "country": "Select your country",
+        "document": "Select Identity Document Type",
+        "front": "Upload ID Document Front Side Photo",
+        "back": "Upload ID Document Back Side Photo",
+        "id_number": "Enter a valid document id number",
+        "name": "Enter your name as per on ID Document",
+        "dob": "Enter a valid birth date. You have to be 18 or older to join Coins11"
+      }
+    },
+    "bank": {
+      "txt_upload": "Upload Bank Document",
+      "txt_document": "Bank Document",
+      "hnt_document": "Select Document Type",
+      "txt_bank": "Bank Name",
+      "hnt_bank": "Enter bank name",
+      "txt_account": "Bank Account Number",
+      "hnt_account": "Enter your bank account number",
+      "txt_account_confirm": "Confirm Bank Account Number",
+      "hnt_account_confirm": "Re-enter your bank account number",
+      "txt_ifsc": "IFSC Code",
+      "hnt_ifsc": "Enter IFSC code of bank branch",
+      "txt_name": "Your Name",
+      "hnt_name": "Enter name as per bank account",
+      "btn_verify": "Verify Bank Account",
+      "txt_change": "Change Bank",
+      "txt_verify": "Verify Again",
+      "popup": {
+        "upload_title": "Upload Bank Document",
+        "upload_info": "Cancelled Cheque, Bank Statement, Passbook"
+      },
+      "errors": {
+        "upload": "Upload Bank Document photo",
+        "document": "Select Document Type",
+        "bank_name": "Enter a valid bank name",
+        "account_no": "Enter your bank account number",
+        "account_no_con": "Re-enter your bank account number",
+        "account_no_confirm": "Re-enter account number must be same as above, account number",
+        "ifsc": "Enter a valid IFSC code of your bank branch",
+        "name": "Enter your name as per bank account"
+      }
+    },
+    "upi":{
+      "txt_upi": "UPI",
+      "txt_name": "Name",
+      "hnt_name": "Enter your name as per bank account",
+      "hnt_upi": "Enter UPI address",
+      "txt_verify": "Verify Again",
+      "txt_change": "Change",
+      "btn_verify": "Verify UPI",
+      "errors": {
+        "upi": "Enter a valid UPI address",
+        "name": "Enter a valid name"
+      }
+    },
+    "kyc_status": {
+      "verification_successful": "Verification Successful",
+      "verification_failed": "Verification Failed",
+      "verification_again": "Verify Again",
+      "pending_verification": "Verification Pending"
+    }
+  },
+  "my_games_screen": {
+    "title" : "My Games",
+    "txt_upcoming": "Upcoming",
+    "txt_live": "Live",
+    "txt_completed": "Completed",
+    "btn_play": "Play Game",
+    "err_title": "Nothing here, yet…",
+    "err_info": "We don’t see any records from your bidding history.",
+    "up_down": {
+      "upcoming": {
+        "minutes": "{} Minutes",
+        "deal_id": "Deal ID",
+        "start_time": "Start Time",
+        "selected_coins": "Selected Coins",
+        "player_coins": "Player Coins",
+        "total_players": "Players",
+        "game_coins": "Game Coins"
+      },
+      "live": {
+        "minutes": "{} Minutes",
+        "deal_id": "Deal ID",
+        "end_time": "End Time",
+        "selected_coins": "Selected Coins",
+        "player_coins": "Player Coins",
+        "total_players": "Players",
+        "game_coins": "Game Coins"
+      },
+      "completed": {
+        "minutes": "{} Minutes",
+        "deal_id": "Deal ID",
+        "result_time": "Result Time",
+        "selected_coins": "Selected Coins",
+        "player_coins": "Player Coins",
+        "lost_coins": "Lost Coins",
+        "won_coins": "Won Coins",
+        "calculating":"Calculating"
+      }
+    },
+    "coins_11": {
+      "upcoming": {
+        "hourly": "{} Hourly",
+        "deal_id": "Deal ID",
+        "player_coins": "Player Coins",
+        "start_time": "Start Time",
+        "end_time": "End Time",
+        "total_players": "Players",
+        "game_coins": "Game Coins"
+      },
+      "live": {
+        "hourly": "{} Hourly",
+        "deal_id": "Deal ID",
+        "end_time": "End Time",
+        "loyalty_points": "Loyalty Points",
+        "player_coins": "Player Coins",
+        "total_players": "Players",
+        "game_coins": "Game Coins"
+      },
+      "completed": {
+        "hourly": "{} Hourly",
+        "deal_id": "Deal ID",
+        "result_time": "Result Time",
+        "player_points": "Points",
+        "player_rank": "Rank",
+        "player_coins": "Player Coins",
+        "won_coins": "Won Coins",
+        "calculating":"Calculating"
+      }
+    }
+  },
+  "game_result_screen": {
+    "err_title": "Nothing here, yet…",
+    "err_info": "We don’t see any records from your account.",
+    "processing":"Processing",
+    "result_process": "Game Result in progress try after some time.",
+    "up_down": {
+      "title": "Up/Down - {} Min",
+      "deal_id": "Deal ID",
+      "result_time": "Result Time",
+      "selected_coins": "Selected Coins",
+      "player_coins": "Player Coins",
+      "lost_coins": "Lost Coins",
+      "won_coins": "Won Coins",
+      "tab_my_result": "My Result",
+      "tab_game_result": "Game Result",
+      "tab_leaderboard": "Leaderboard",
+      "upcoming_info_title":"How to Play",
+      "live_info_title":"How to Play",
+      "completed_info_title":"How to Play",
+      "calculating":"Calculating",
+      "my_result": {
+        "coins": "Coins",
+        "bid": "Bid",
+        "up": "Up",
+        "down": "Down",
+        "loss": "Loss",
+        "win": "Win",
+        "open": "Open",
+        "close": "Close",
+        "no_opponents": "No Opponents",
+        "no_change": "No Change",
+        "win_ratio": "Win Ratio",
+        "result": "Result"
+      },
+      "game_result": {
+        "open": "Open",
+        "close": "Close",
+        "up": "Up",
+        "down": "Down",
+        "no_change": "No Change",
+        "start_time": "Start Time",
+        "end_time": "End Time",
+        "result_time": "Result Time",
+        "total_players": "Total Players",
+        "up_players": "Up Players",
+        "down_players": "Down Players",
+        "game_coins": "Game Coins",
+        "up_coins": "Up Coins",
+        "down_coins": "Down Coins",
+        "win_ratio": "Win Ratio",
+        "coin": "Coin",
+        "coins": "Coins",
+        "result": "Result"
+      },
+      "leaderboard": {
+        "all_players": "All Players",
+        "bid": "Bid",
+        "won": "Won",
+        "rank": "Rank"
+      }
+    },
+    "coins_11": {
+      "title": "Coins11 - {} Hourly",
+      "deal_id": "Deal ID",
+      "my_rank": "My Rank",
+      "player_coins": "Player Coins",
+      "won_coins": "Won Coins",
+      "loyalty_points": "Loyalty Points",
+      "my_points": "My Points",
+      "win_ratio": "Win Ratio",
+      "start_time": "Start Time",
+      "end_time": "End Time",
+      "result_time": "Result Time",
+      "tab_my_result": "My Result",
+      "tab_game_result": "Game Result",
+      "tab_winning": "Winning",
+      "tab_ranking": "Ranking",
+      "upcoming_info_title":"How to Play",
+      "live_info_title":"How to Play",
+      "completed_info_title":"How to Play",
+      "calculating":"Calculating",
+      "my_result": {
+        "open": "Open",
+        "close": "Close",
+        "up": "Up",
+        "down": "Down",
+        "no_change": "No Change",
+        "earned_points": "Earned Points",
+        "my_bid": "My Bid",
+        "credit_points": "Credit Points",
+        "debit_points": "Debit Points",
+        "txt_c": "C",
+        "txt_vc": "VC",
+        "result": "Result"
+      },
+      "game_result": {
+        "txt_players": "Total Players",
+        "txt_coins": "Coins",
+        "open": "Open",
+        "close": "Close",
+        "up": "Up",
+        "down": "Down",
+        "no_change": "No Change",
+        "captain_by": "Caption By",
+        "vice_captain_by": "Vice Caption By",
+        "up_players": "Up Players",
+        "down_players": "Down Players",
+        "total_players": "Total Players",
+        "earn_points": "Earn Points",
+        "result": "Result"
+      },
+      "winning": {
+        "prize_pool": "Prize Pool",
+        "total_winners": "Total Winners",
+        "rank": "Rank",
+        "percentage": "Percentage",
+        "winning_coins": "Winning Coins"
+      },
+      "ranking": {
+        "all_players": "All Players",
+        "points": "Points",
+        "rank": "Rank"
+      }
+    }
+  },
+  "leaderboard_screen": {
+    "title": "Leaderboard",
+    "loyalty_program": "Loyalty Program",
+    "first_prize": "1st Prize",
+    "next_result": "Next Result",
+    "leaderboard": "Leaderboard",
+    "prizes": "Prizes",
+    "transactions": "Transactions",
+    "all_players": "All Players",
+    "loyalty_points": "Loyalty Points",
+    "point": "Point",
+    "points": "Points",
+    "rank": "Rank",
+    "prize": "Prize",
+    "coin": "Coin",
+    "coins": "Coins",
+    "type": "Type",
+    "info": "Info",
+    "gameplay": "Gameplay",
+    "min": "Min",
+    "hourly": "Hourly",
+    "coin_redemption": "Coins Redemption",
+    "transaction_id": "Transaction ID",
+    "time": "Time",
+    "redeem":"Redeem",
+    "status":"Status",
+    "error":{
+      "empty_leaderboard_title":"Waiting for more players",
+      "empty_leaderboard_info":"When more players play games, a leaderboard will be generated.",
+      "empty_prizes_title":"Available Soon",
+      "empty_prizes_info":"A updated prize list will be made available soon.",
+      "empty_transactions_title":"No transactions yet.",
+      "empty_transactions_info":"Play more games to gain more loyalty points.",
+      "empty_leaderboard_prize_title":"Available Soon",
+      "empty_leaderboard_prize_info":"The results of the loyalty programme will be available soon. Please come back later."
+    },
+    "loyalty_result_screen": {
+      "title": "Leaderboard Info",
+      "loyalty_result": "Loyalty Program Result",
+      "total_rewards": "Total Rewarded Coins",
+      "result_date": "Result Date",
+      "leaderboard": "Leaderboard",
+      "information": "Information",
+      "all_players": "All Players",
+      "points": "Points",
+      "rank": "Rank"
+    },
+    "loyalty_reward_screen": {
+      "title": "Rewards Redemption",
+      "title_status": "Rewards Redemption Status",
+      "redeem_info": "Provide Redeem Information",
+      "enter_email": "Enter Your Email Address",
+      "email_valid": "Enter a valid email address",
+      "btn_redeem": "Redeem Now",
+      "btn_redeem_again": "Redeem Again",
+      "claimed_gift": "Claimed Item",
+      "claim_time": "Claim Time",
+      "points_deducted": "Points Deducted",
+      "status_update": "Status Updated",
+      "status": "Status",
+      "reward_note": "For all gift cards configured as a 'virtual' product, coupon codes are sent to the user by email.",
+      "reward_note_two": "Once you have redeemed the reward, an email will be sent to the Gift recipient containing a code (\"Code\") to redeem the Gift card."
+    },
+    "redeem_status":{
+      "claimed":"Claimed",
+      "not_claimed":"Not Claimed",
+      "rejected":"Rejected",
+      "delivered":"Delivered",
+      "processing":"Processing",
+      "hold": "Hold",
+      "expired": "Expired"
+    }
+  },
+  "more_screen": {
+    "title": "More",
+    "my_wallet": "My Wallet",
+    "offers": "Offers",
+    "refer": "Refer & Earn",
+    "affiliate": "Become an Affiliate",
+    "change_language": "Change Language",
+    "how": "How to Play",
+    "point_system": "Point System",
+    "exchange_rates": "Exchange Rates",
+    "faqs": "FAQs",
+    "about_us": "About Us",
+    "contact_us": "Contact Us",
+    "support": "Support",
+    "legality": "Legality",
+    "disclaimer": "Disclaimer",
+    "fair_play": "Fair Play Policy",
+    "privacy_policy": "Privacy Policy",
+    "withdrawal_policy": "Withdrawal Policy",
+    "refund_policy": "Refund Policy",
+    "terms_conditions": "Terms & Conditions",
+    "loyalty_terms": "Loyalty Program Terms",
+    "game_rules": "Game Rules",
+    "responsible_gaming": "Responsible Gaming",
+    "Setting": "Settings"
+  },
+  "offers_screen": {
+    "title": "Promotional Offers",
+    "err_title": "No Offers Available",
+    "err_info": "There are no coupons or offers available at this time. Please check back later for more."
+  },
+  "referral_screen": {
+    "title": "Refer & Earn",
+    "referrals": "Referrals",
+    "bonus": "Bonus",
+    "commission": "Commission",
+    "tab_refer": "Refer",
+    "tab_my_earnings": "My Earnings",
+    "tab_my_referrals": "My Referrals",
+    "txt_referral": "Refer Your Friend and Earn Bonus Coins",
+    "info_referral":"You can earn bonus coins by referring friends and sending them the invitation code. After your friend signs up using your referral code, you will earn bonus coins for each referral.",
+    "info_whenver":"Whenever you refer someone:",
+    "info_you_will":"You will receive upto 50 bonus coins.",
+    "info_your_friend":"Your friend also get upto 100 bonus coins.",
+    "info_when_your_friend":"When your friends play games, you will earn upto 1% commission.",
+    "txt_how": "How It Works",
+    "txt_policy": "Referral Policies",
+    "date": "Date",
+    "info": "Info",
+    "coins": "Coins",
+    "err_title": "No Referrals Found",
+    "btn_refer": "Refer & Earn"
+  },
+  "affiliate_screen": {
+    "title_become": "Become an Affiliate",
+    "txt_become": "Become an",
+    "txt_Affiliate": "Affiliate",
+    "txt_get": "Get",
+    "txt_paid": "Paid",
+    "txt_sub_title": "Earn Cash While Your Friends and Followers Play!",
+    "txt_works": "How It Works",
+    "txt_info_works": "Affiliate marketing is the process of earning a commission by promoting other people’s (or company’s) products and services. It’s a Coins11 affiliate programme that allows you to earn real money by inviting friends, followers, and community members!",
+    "txt_one_question": "What is the process for becoming an affiliate?",
+    "txt_one_answer": "To join the programme, click the Join Now button and fill out the form.",
+    "txt_two_question": "Who is eligible to take part in this programme?",
+    "txt_two_answer": "Anyone with followers/friends is welcome to participate! If you have WhatsApp, Telegram, Facebook groups, Affiliate networks, Influencers, or even individuals as followers!",
+    "txt_three_question": "When will I be able to make money?",
+    "txt_three_answer": "You receive a percentage of the contest entry fee if your invited friend or follower participates in a paid contest.",
+    "btn_join": "Join Now, It's Free!",
+    "btn_apply": "Apply Now",
+    "title_registration": "Affiliate Registration",
+    "txt_full_name": "Full Name",
+    "hnt_full_name": "Enter Full Name",
+    "txt_mobile": "Mobile Number",
+    "hnt_mobile": "Enter Mobile Number",
+    "txt_email": "Email Address",
+    "hnt_email": "Enter Email Address",
+    "txt_referral": "Referral Code",
+    "hnt_referral": "Create Your Referral Code",
+    "title_social": "Your Social Media Profiles",
+    "txt_youtube": "Youtube",
+    "hnt_youtube": "Enter Youtube Channel Url",
+    "txt_facebook": "Facebook",
+    "hnt_facebook": "Enter Facebook Page/Group, Profile Url",
+    "txt_instagram": "Instagram",
+    "hnt_instagram": "Enter Instagram Profile Url",
+    "txt_tiktok": "TikTok",
+    "hnt_tiktok": "Enter TikTok Profile Url",
+    "txt_twitter": "Twitter",
+    "hnt_twitter": "Enter Twitter Profile Url",
+    "txt_other": "Other",
+    "hnt_other": "Enter Other Social Media Url",
+    "btn_register": "Register",
+    "btn_submit": "Submit",
+    "txt_how": "How It Works",
+    "txt_policy": "Referral Policies",
+    "txt_your_affiliate": "Your Affiliate {}",
+    "txt_commission_rate":"Commission\nRate",
+    "txt_commission_earned":"Commission\nEarned",
+    "txt_total_referrals":"Total\nReferral",
+    "errors": {
+      "full_name": "Enter your full name",
+      "mobile_no": "Enter your mobile number",
+      "email_address": "Enter your email address",
+      "email_valid": "Enter a valid email address",
+      "referral_code": "Enter your unique referral code",
+      "social_media": "Provide at least one social media profile link",
+      "valid_url": "Please enter valid url"
+    },
+    "affiliate_status": {
+      "verification_successful": "Verification Successful",
+      "verification_failed": "Verification Failed",
+      "verification_again": "Verify Again",
+      "pending_verification": "Verification Pending",
+      "reject_your_applications": "Your affiliate application is denied. Try Again in {} Days",
+      "joining_info": "You'll be notified when your affiliate application is reviewed"
+    }
+  },
+  "language_screen": {
+    "title": "Change Language",
+    "btn_change": "Change",
+    "error":{
+      "language_not_support":"This language is currently unavailable."
+    }
+  },
+  "play_screen": {
+    "title": "Play Games",
+    "total_players":"Total Players",
+    "game_coins":"Game Coins",
+    "minute":"Minute",
+    "slot":"Slot",
+    "game_start":"Game Start",
+    "tomorrow":"Tomorrow",
+    "time_left":"Time Left",
+    "up_down":{
+      "slot_5":{
+        "title": "BULL",
+        "sub_title": "BEAR",
+        "tag_line": "Bid Now"
+      },
+      "slot_10":{
+        "title": "HIGH",
+        "sub_title": "LOW",
+        "tag_line": "Play Now"
+      },
+      "slot_15":{
+        "title": "LONG",
+        "sub_title": "SHORT",
+        "tag_line": "Bid Now"
+      },"slot_30":{
+        "title": "RISE",
+        "sub_title": "FALL",
+        "tag_line": "Play Now"
+      }
+    },
+    "coins_11":{
+      "slot_00": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_01": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Play Now"
+      },
+      "slot_02": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_03": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_04": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Play Now"
+      },
+      "slot_05": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_06": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Play Now"
+      },
+      "slot_07": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_08": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Play Now"
+      },
+      "slot_09": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_10": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Play Now"
+      },
+      "slot_11": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_12": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Play Now"
+      },
+      "slot_13": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_14": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Play Now"
+      },
+      "slot_15": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_16": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Play Now"
+      },
+      "slot_17": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_18": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Play Now"
+      },
+      "slot_19": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_20": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Play Now"
+      },
+      "slot_21": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      },
+      "slot_22": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Play Now"
+      },
+      "slot_23": {
+        "title": "Hourly",
+        "sub_title": "Contest",
+        "tag_line": "Join Now"
+      }
+    }
+  },
+  "game_common": {
+    "terms_india": "I’m 18+ and confirm that I’m not playing from Andhra Pradesh, Telangana, Assam, Odisha, Nagaland and Sikkim and agree to Coins11’s Terms & Conditions",
+    "terms_global": "I’m 18+ and agree to Coins11’s Terms & Conditions",
+    "popup": {
+      "market_depth": "Market Depth",
+      "last_updated": "Last Updated",
+      "interval": "Interval",
+      "market_price": "Market Price",
+      "usd": "USD",
+      "technical": "Technical",
+      "momentum": "Momentum",
+      "candle": "Candle",
+      "line": "Line"
+    },
+    "successful_bid_screen": {
+      "bid_success": "Successful Bid",
+      "minute": "Minute",
+      "hour": "Hour",
+      "hourly": "Hourly",
+      "game": "Game",
+      "start_time": "Game Start Time",
+      "end_time": "Game End Time",
+      "debited_from": "Coins Debited From",
+      "bonus": "Bonus",
+      "winnings": "Winnings",
+      "commission": "Commission",
+      "deposit": "Deposit",
+      "total_debit": "Total Debited Coins",
+      "player_coins": "Player Coins",
+      "btn_my_games": "My Games"
+    }
+  },
+  "up_down_game_screen": {
+    "title": "Up/Down - {} Min",
+    "time_left": "Time Left",
+    "game_start": "Game Start",
+    "selected_coins": "Selected Coins",
+    "total_players": "Total Players",
+    "time_slot": "Time Slot",
+    "bid_coins": "Bid Coins",
+    "change": "Change",
+    "loyalty": "Loyalty",
+    "start": "Start",
+    "players": "Players",
+    "coins": "Coins",
+    "up": "Up",
+    "down": "Down",
+    "btn_place_bid": "Place Bid ({})",
+    "deal_id": "Deal ID",
+    "start_time": "Start Time",
+    "player_coins": "Player Coins",
+    "game_coins": "Game Coins",
+    "btn_edit_bid": "Edit Bid ({})",
+    "end_time": "End Time",
+    "before_bid":"Bid Before",
+    "total_coins": "Total Coins",
+    "game_starts":"Game Starts",
+    "game_ends":"Game Ends",
+    "txt_wining":"Winning: {}",
+    "txt_losing":"Losing: {}",
+    "errors": {
+      "bid_closed": "Sorry!, Bidding Time is Over.",
+      "bidding_closed": "Sorry! Bidding is closed for current time slot. Try different time slot.",
+      "coins_err": "You don't have enough coins",
+      "max_err": "You have reached the limit of maximum coins for bidding."
+    },
+    "updown_info_bottom_sheet":{
+      "tab_how_to_play":"How to Play",
+      "tab_gameinfo":"Game Info",
+      "txt_how_to_play":"How to Play",
+      "rules":{
+        "title":"Game Rules",
+        "r_1":"Knowledge of cryptocurrency and analytical skills are essential.",
+        "r_2":"The game lasts 5 minutes, 10 minutes, 15 minutes, and 30 minutes.",
+        "r_3":"To play this game, you must select at least 1 and no more than 11 crypto tokens.",
+        "r_4":"You must also choose the direction of the token’s price movement.",
+        "r_5":"Your winning ratio will be determined by your entry fee coins and your choice of price movement direction."
+      }
+    }
+  },
+  "coins_11_game_screen": {
+    "title": "Coins11 - {} Hour",
+    "time_left": "Time Left",
+    "game_start": "Game Start",
+    "player_coins": "Player Coins",
+    "captain": "Captain",
+    "vice_captain": "Vice Captain",
+    "loyalty_points": "Loyalty Points",
+    "players": "Players",
+    "coins": "Coins",
+    "btn_confirm": "Confirm",
+    "btn_join_contest": "Join Contest ({})",
+    "deal_id": "Deal ID",
+    "selected_coins": "Team Coins",
+    "btn_change_coins": "Change Coins",
+    "txt_c": "C",
+    "txt_vc": "VC",
+    "up": "Up",
+    "down": "Down",
+    "end_time": "End Time",
+    "game_coins": "Game Coins",
+    "before_bid":"Bid Before",
+    "total_coins": "Total Coins",
+    "game_starts":"Game Starts",
+    "game_ends":"Game Ends",
+    "my_points":"My Points",
+    "wining":"Winning",
+    "losing":"Losing",
+    "change":"Change",
+    "how_to_play":"How to Play",
+    "errors": {
+      "bidding_closed": "Sorry! Bidding is closed. Try different time slot contest.",
+      "coins_err": "You don't have enough coins",
+      "max_err": "You have reached the limit of maximum coins for bidding.",
+      "select_coins": "Select {} more coins to complete your bid!",
+      "select_captain": "Please Select Captain",
+      "select_vice_captain": "Please Select Vice Captain"
+    },
+    "live_rank_bottom_sheet":{
+      "tab_winning":"Winnings",
+      "tab_how_to_play":"How to Play",
+      "tab_gameinfo":"Game Info",
+      "txt_contest":"Contest",
+      "txt_players":"Players",
+      "txt_total_prize" : "Total Prizes",
+      "txt_first_prize": "1st Prize",
+      "txt_winners": "Winners",
+      "txt_rank": "Rank",
+      "txt_winning_coins": "Winning Coins",
+      "error":{
+        "err_title":"Waiting for more Players",
+        "err_text": "When there are enough participants in the contest, the winnings information will be generated automatically."
+      },
+      "rules":{
+        "title":"Game Rules",
+        "r_1":"Knowledge of cryptocurrency and analytical skills are essential.",
+        "r_2":"The game lasts for an hour.",
+        "r_3":"To play this game, you must first choose 11 crypto tokens.",
+        "r_4":"You must also choose the direction of the token’s price movement.",
+        "r_5":"You must also choose C and VC from your 11 crypto token team.",
+        "r_6":"Positive points will be awarded to the best performing crypto coins that move in the direction you choose.",
+        "r_7":"Your winning position will be determined by the total number of points scored by your crypto tokens team."
+      }
+    }
+  },
+  "notification_screen": {
+    "title": "Notifications",
+    "err_title": "No Notification Yet",
+    "err_info": "Stay Tuned! Notifications about game results and offers will show up here."
+  },
+  "wallet_screen": {
+    "title": "My Wallet",
+    "wallet_balance": "Wallet Balance",
+    "transactions": "Transactions",
+    "status": "Status",
+    "deposits": "Deposits",
+    "deposit_by_fiat": "Deposit by Fiat",
+    "deposit_by_crypto": "Deposit by Crypto",
+    "btn_add_cash": "Add Cash",
+    "btn_add_crypto": "Add Crypto",
+    "btn_earn_free_coins": "Earn Free Coins",
+    "deposit_by_offerwall": "Deposit by Offerwall",
+    "winnings": "Winnings",
+    "commission": "Commission",
+    "withdrawal_in": "Withdrawal In",
+    "cash": "Cash",
+    "crypto": "Crypto",
+    "bonus": "Bonus",
+    "btn_earn_coins": "Refer & Earn",
+    "btn_pay":"PAY",
+    "pay_with":"Pay With:",
+    "info_card":"Card(Credit,Debit), Wallet, Bank Transfer",
+    "errors": {
+
+    }
+  },
+  "transactions_screen": {
+    "all": "All",
+    "deposits": "Deposits",
+    "winnings": "Winnings",
+    "commission": "Commission",
+    "bonus": "Bonus",
+    "err_title": "No Transactions",
+    "err_info": "You haven’t made any transactions yet",
+    "type": "Type",
+    "info": "Info",
+    "transaction_id": "Transaction ID",
+    "txn_no": "Txn No",
+    "time": "Time",
+    "hourly": "Hourly",
+    "min": "Min",
+    "gameplay": "Gameplay",
+    "coins_in": "Coins In",
+    "coins_out": "Coins Out",
+    "clear_filter": "Clear Filter",
+    "winning": "Winning",
+    "bidding": "Bidding",
+    "from": "From",
+    "for": "For",
+    "cash_deposit": "Cash Deposit",
+    "crypto_deposit": "Crypto Deposit",
+    "currency": "Currency",
+    "exchange_rate": "Exchange Rate",
+    "amount": "Amount",
+    "fiat": "Fiat",
+    "crypto": "Crypto",
+    "coins": "Coins",
+    "inr": "INR",
+    "usd": "USD",
+    "btc": "BTC",
+    "game": "Game",
+    "earned_from": "Earned From",
+    "referral_bonus": "Referral Bonus",
+    "deposit_requested": "Deposit Requested",
+    "coins_deposited": "Coins Deposited",
+    "txn_amount":"Tax Amount",
+    "won_amount":"Winning Amount",
+    "txn_percentage":"Tax Rate",
+    "total_won_coins":"Winning in Coins",
+    "status": "Status",
+    "txn_status": {
+      "pending": "Pending",
+      "failed": "Failed",
+      "cancel": "Cancelled",
+      "success": "Successful",
+      "processing": "Processing",
+      "refunded": "Refunded",
+      "hold": "Hold"
+    }
+  },
+  "transactions_status_screen": {
+    "title": "Transactions Status",
+    "deposits": "Deposits",
+    "winnings": "Winnings",
+    "commission": "Commission",
+    "bonus": "Bonus",
+    "withdrawals": "Withdrawals",
+    "txn_info": {
+      "type": "Type",
+      "currency": "Currency",
+      "exchange_rate": "Exchange Rate",
+      "transaction_id": "Transaction ID",
+      "request_time": "Requested",
+      "update_time": "Updated",
+      "complete_time": "Completed",
+      "time": "Time",
+      "txn_no": "Txn No",
+      "amount": "Amount",
+      "deposit_requested": "Deposit Requested",
+      "status": "Status",
+      "amount_sent": "Amount Sent",
+      "payout_in": "Payout In",
+      "payout_details": "Payout Details",
+      "withdrawal_type": "Withdrawal Type",
+      "regular_withdrawal": "Regular Withdrawal",
+      "quick_withdrawal": "Quick Withdrawal",
+      "withdrawal_fees": "Withdrawal Fees",
+      "coin": "Coin",
+      "coins": "Coins",
+      "info":"Info"
+    },
+    "crypto_screen":{
+      "title": "Crypto Transactions Status",
+      "requested_amount":"Requested Amount",
+      "received_amount":"Received Amount",
+      "payment_address":"Payment Address",
+      "memo_destination_tag":"Memo/Destination Tag",
+      "confirmations":"Confirmations",
+      "created_time":"Created Time",
+      "expires_time":"Expires Time"
+    }
+  },
+  "add_coins": {
+    "add_amount": "Add Amount",
+    "coin": "Coin",
+    "coins": "Coins",
+    "you_sent": "You Sent {}",
+    "you_get": "You Get {}",
+    "exchange_rate": "Exchange Rate",
+    "enter_promo": "Enter Promo Code",
+    "promo_codes": "Promo Codes",
+    "coupons": "Coupons",
+    "tab_title": "Promo Codes List",
+    "promo_message": "You got a great deal!",
+    "promo_list_empty_title":"No Promo Codes",
+    "promo_list_empty_text":"There are currency no promo codes available.",
+    "pay_method": "Select your preferred payment method from the options provided.",
+    "payment_method": "Select a payment method",
+    "terms_india": "I’m 18+ and confirm that I’m not from Andhra Pradesh, Telangana, Assam, Odisha, Nagaland and Sikkim and agree to Coins11’s Refund Policy, Terms & Conditions and Privacy Policy.",
+    "terms_global": "I’m 18+ and agree to Coins11’s Refund Policy, Terms & Conditions and Privacy Policy",
+    "coupon_apply":"Offer applied Successfully. You will get {} extra coins.",
+    "btn_add": "Add",
+    "btn_apply": "Apply",
+    "add_cash_screen": {
+      "title": "Add Cash",
+      "card": "Card",
+      "card_info": "Visa, Mastercard, RuPay, and Maestro",
+      "upi": "UPI",
+      "upi_info": "Google Pay, PhonePe & more",
+      "net_banking": "Net Banking",
+      "net_baking_info": "All Indian Banks",
+      "wallet": "Wallet",
+      "wallet_info": "Mobikwik & More",
+      "error":{
+        "celo_wallet_address":"The Celo Deposit Wallet Address has not yet been generated. After 24 hours, try again to make a deposit using this Payment Gateway.",
+        "payment_options":"All cash deposit options are temporarily unavailable.",
+        "err_email_title": "Verify Your Email Address",
+        "err_email_info": "In order to add coins by fiat, you need to provide and confirm the email address."
+      }
+    },
+    "add_crypto_screen": {
+      "title": "Add Crypto",
+      "bitcoin": "Bitcoin",
+      "btc": "BTC",
+      "ethereum": "Ethereum",
+      "eth": "ETH",
+      "tether": "Tether",
+      "usdt": "USDT",
+      "litecoin": "Litecoin",
+      "ltc": "LTC",
+      "dogecoin": "Dogecoin",
+      "doge": "DOGE",
+      "err_email_title": "Verify Your Email Address",
+      "err_email_info": "In order to add coins by cryptocurrency, you need to provide and confirm the email address.",
+      
+      "crypto_deposit_screen": {
+        "title": "Deposit {}",
+        "amount_remaining": "Amount Remaining",
+        "to_address": "To Address",
+        "destination_tag": "Enter Memo/Destination Tag",
+        "time_left": "Time Left",
+        "status":"Status",
+        "payment_id": "Payment ID",
+        "verification_code": "Verification Code",
+        "save_code": "save in case there are any issues with your payment",
+        "txn_note": "Make sure to send enough to cover any coin transaction fees!",
+        "what_to_do": "What to do next?",
+        "what_to_do_info": "1) Please send {amount} {crypto} to address {address}. (Make sure to send enough to cover any coin transaction fees!) You will need to initiate the payment using your software or online wallet and copy/paste the address and payment amount into it. We will email you when all funds have been received. You have {hh} hours, {mm} minutes, {ss} seconds for us to receive confirmed funds. If you send funds that don't confirm by the timeout or don't send enough coins you will receive an automatic email to claim your funds within 8 hours. If you don't receive the email contact us with the information below and CoinPayments.net will send you a refund:\n    i) The transaction ID: {txnid}\n    ii) A payment address to send the funds to.\n    iii) This verification code: {code} (to verify that you are the transaction sender.)\n\n2) After sending payment, review the status of your transaction on this page. Once the payment is confirmed several times in the block chain, the payment will be completed and the merchant will be notified. The confirmation process usually takes 10-45 minutes but varies based on the coin's target block time and number of block confirms required. The status page is available for the next 30 days.\n",
+        "what_to_do_info_two": " 1) Please send {amount} {crypto} to address {address} with the Destination Tag set to {tag}. (Make sure to send enough to cover any coin transaction fees!) You will need to initiate the payment using your software or online wallet and copy/paste the address and payment amount into it. We will email you when all funds have been received. You have {hh} hours, {mm} minutes, {ss} seconds for us to receive confirmed funds. If you send funds that don't confirm by the timeout or don't send enough coins you will receive an automatic email to claim your funds within 8 hours. If you don't receive the email contact us with the information below and CoinPayments.net will send you a refund:\n    i) The transaction ID: {txnid}\n    ii) A payment address to send the funds to.\n    iii) This verification code: {code} (to verify that you are the transaction sender.)\n\n2) After sending payment, review the status of your transaction on this page. Once the payment is confirmed several times in the block chain, the payment will be completed and the merchant will be notified. The confirmation process usually takes 10-45 minutes but varies based on the coin's target block time and number of block confirms required. The status page is available for the next 30 days.\n",
+        "what_if": "What if I accidentally don't send enough?",
+        "what_if_info": "If you don't send enough, that is OK. Just send the remainder and we will combine them for you. You can also send from multiple wallets/accounts."
+      },
+      "error":{
+        "crypto_options":"All crypto deposit options are temporarily unavailable."
+      }
+    },
+    "earn_free_coins_screen": {
+      "title": "Earn Free Coins",
+      "error":{
+        "payment_options":"Offers are temporarily unavailable."
+      }
+    },
+    "success_screen": {
+      "msg_title": "Coins Added Successfully",
+      "money_sent": "Money Sent",
+      "coins_added": "Coins Added",
+      "wallet_balance": "Wallet Balance",
+      "date_time": "Date & Time",
+      "txn_id": "Transaction ID",
+      "support_info": "If you have any query contact us at {}",
+      "note_cash": "",
+      "note_crypto": "",
+      "btn_my_games": "My Games"
+    },
+    "failed_screen": {
+      "err_title": "Oops! Payment Failed",
+      "err_info": "It looks like your payment has not yet been completed. If your amount is deducted, the amount will be added to your wallet or refunded within 7 working days.",
+      "wallet_balance": "Wallet Balance",
+      "time_date": "Time & Date",
+      "txn_id": "Transaction ID",
+      "btn_try": "Try Again",
+      "txt_query": "If you have any queries contact at {}"
+    },
+    "timeout_screen": {
+      "err_title": "Timed Out",
+      "err_info": "This payment has timed out either due to lack of confirms before the time limit or due to not sending enough funds. If you have sent any funds you will receive an email to claim them within 8 hours of them confirming.",
+      "support_info": "If submitting a support ticket after the 8 hour window make sure to include the following information",
+      "transaction_id": "The transaction ID",
+      "refund_info": "A payment address to send the refund funds to",
+      "verification_code": "This verification code",
+      "verify_info": "to verify that you are the transaction sender.",
+      "refund_instruction": "A payment address to send the refund funds and this verification code {} to verify that you are the transaction sender.",
+      "txt_query": "If you have any queries contact at {}"
+    },
+    "errors": {
+      "enter_amount": "Enter the amount of deposit",
+      "minimum_amount": "The minimum amount of money you can add is {}",
+      "maximum_amount": "The maximum amount of money you can add is {}",
+      "terms_err": "You must accept our terms and conditions!"
+    }
+  },
+  "withdraw_coins": {
+    "coins_available": "Coins Available for Withdrawal",
+    "withdrawal_amount": "Withdrawal Amount",
+    "coins_required": "Coins Required",
+    "exchange_rate": "Exchange Rate",
+    "coins": "Coins",
+    "coin": "Coin",
+    "fees": "Fees",
+    "time": "Time",
+    "change": "Change",
+    "withdraw": "Withdraw",
+    "withdrawal": "Withdrawal",
+    "confirm": "Confirm",
+    "btn_withdraw": "Withdraw",
+    "min_max_amount": "Min/Max Amount",
+    "withdrawal_type": "Select Withdrawal Type",
+    "regular_withdrawal": "Regular Withdrawal",
+    "quick_withdrawal": "Quick Withdrawal",
+    "you_will_get": "You will get: {}",
+    "withdraw_time": "In every {} hours, we start processing withdrawal requests. ",
+    "paytm_withdrawal": "Paytm withdrawals are permitted for amounts less than ₹{} and just once per 24 hours.",
+    "withdrawal_status": "You can check your withdrawal status at 'More -> My Wallet -> Status -> Withdrawals'",
+    "contact_support": "Please contact support {} for any issues",
+    "error_info": "In the event of an error, your coins will be returned to your Coins11 wallet within 1-5 working days.",
+    "terms_india": "I’m 18+ and confirm that I’m not from Andhra Pradesh, Telangana, Assam, Odisha, Nagaland and Sikkim.",
+    "terms_global": "I’m 18+ and agree to Coins11’s Withdrawal Policy, Terms & Conditions and Privacy Policy",
+    "terms_paytm": "I’m 18+ and agree to Coins11’s Withdrawal Policy, Terms & Conditions and Privacy Policy",
+    "terms_advcash": "I’m 18+ and agree to Coins11’s Withdrawal Policy, Terms & Conditions and Privacy Policy",
+    "terms_upi": "I’m 18+ and agree to Coins11’s Withdrawal Policy, Terms & Conditions and Privacy Policy",
+    "paytm_info": "The mobile number has a Paytm wallet and has completed the Paytm KYC process. Otherwise, the withdrawal request would be rejected.",
+    "withdraw_cash_screen": {
+      "withdraw_cash": "Withdraw Cash",
+      "payout_method": "Select a payout method",
+      "err_kyc": "First Verify Your KYC",
+      "err_bank": "First Verify Your Bank Details",
+      "err_upi": "First Verify Your UPI Details",
+      "txt_upi": "Enter your UPI address",
+      "hnt_upi": "Enter your UPI/VPA address",
+      "txt_paytm": "Enter your paytm mobile number",
+      "hnt_paytm": "Enter your paytm mobile number",
+      "txt_advcash": "Enter your ADVCash email address",
+      "hnt_advcash": "Enter your ADVCash email address",
+      "confirm_popupdialog":{
+        "title":"Withdraw Info",
+        "withdrawal_amount":"Amount to widthdraw",
+        "required_coins":"Required Coins",
+        "withdrawal_type":"Withdrawal Type",
+        "withdrawal_in":"Withdraw in",
+        "btn_confirm":"Confirm"
+      }
+    },
+    "withdraw_crypto_screen": {
+      "withdraw_crypto": "Withdraw Crypto",
+      "select_crypto": "Select Withdrawal Cryptocurrency",
+      "minimum_limit": "Minimum Withdrawal Limit",
+      "enter_address": "Enter {} Address",
+      "enter_tag": "Enter Memo/Destination Tag",
+      "address": "Address",
+      "tag": "Memo/Destination Tag"
+    },
+    "errors": {
+      "enter_amount": "Enter the amount you want to withdraw",
+      "minimum_amount": "The minimum amount of money you can withdraw is {}",
+      "maximum_amount": "The maximum amount of money you can withdraw is {}",
+      "paytm_number": "Enter your valid Paytm account mobile number",
+      "upi_id": "Enter your valid UPI ID",
+      "terms_err": "You must accept our terms and conditions!",
+      "coins_err": "You don't have enough coins.",
+      "method_error": "Selected withdrawal method is disabled at the moment. Choose different!",
+      "error_coins_withdraw":"You don't have enough coins for this amount {}.",
+      "coins_address":"Enter coin's wallet address",
+      "memo_tag":"Enter Memo or destination tag",
+      "advcash_email": "Enter your valid email address",
+      "withdraw_option_error":"Withdrawal has been temporarily paused.",
+      "minimum_withdraw_crypto_amount":"Minimum Withdraw Amount {}"
+    },
+    "withdraw_bottom_sheet":{
+      "withdrawal_conditions":"Withdrawal Conditions",
+      "how_to_withdraw":"How To Withdraw"
+    }
+  },
+  "internet_error_screen": {
+    "txt_oops": "Oops!",
+    "no_internet": "No Internet",
+    "err_info": "Make sure wifi or mobile data is turned on and then try again.",
+    "btn_try": "Try Again"
+  },
+  "setting_screen":{
+    "title":"Settings",
+    "txt_vibrate": "Vibrate",
+    "info_vibrate": "Vibrate device for bid notification",
+    "txt_sound": "Sound",
+    "info_sound": "Sound for game bid notification",
+    "txt_notification": "Marketing Notification",
+    "info_notification": "Email & SMS promotional messages",
+    "txt_change_language": "Change Language",
+    "txt_take_a_break": "Take a Break"
+  },
+  "take_break_screen":{
+    "title":"Take a Break",
+    "txt_title":"Take a break and practise your skills in free contests or by studying the cryptocurrency charts.",
+    "txt_consider_a_timout":"Consider a taking a break when you:",
+    "info_consider_first":"• If you want to take a break from cash competitions, this is the place to be.",
+    "info_consider_second":"• If you want to enhance your technique, you can participate in a free contest or study cryptocurrency charts.",
+    "lbl_take_a_brake":"Take a Break",
+    "txt_days":"{} Day(s)",
+    "txt_day":"{} Day",
+    "txt_restart_playing":"Return to playing with real money on",
+    "info_think_before":"Before you began, take a moment to think. Take a break does not finish before this date - Regardless of the circumstances.",
+    "btn_active":"Activate",
+    "confirm_popup_dialog":{
+      "title":"Are you Sure ?",
+      "info_think_before":"Before you began, take a moment to think. Take a break does not finish before this date - Regardless of the circumstances.",
+      "txt_take_timeout_for":"Take a Break for",
+      "txt_days":"{} Day(s)",
+      "txt_day":"{} Day",
+      "btn_confirm":"Confirm"
+    }
+  },
+  "take_break_timer_screen":{
+    "title":"Take a Break",
+    "txt_title":"Take a break and practise your skills in free contests or by studying the cryptocurrency charts.",
+    "txt_break_end_on":"Break ends on {}",
+    "txt_play_for_cash_after":"Play for real money after",
+    "timer":{
+      "txt_days":"Day(s)",
+      "txt_day":"Day",
+      "txt_hours":"Hours",
+      "txt_mins":"Mins",
+      "txt_sec":"Sec"
+    },
+    "timer_popupdialog":{
+      "title":"Break Time"
+    },
+    "info_think_before":"Before you began, take a moment to think. Take a break does not finish before this date - Regardless of the circumstances."
+  },
+  "exchange_rate_screen":{
+    "title":"Exchange Rate",
+    "deposits_exchange_rate ":"Deposits Exchange Rate",
+    "withdraw_exchange_rate ":"Withdraw Exchange Rate",
+    "coins":"Coins",
+    "update_date":"Last Updated Date : {}",
+    "note":"The exchange rates provided are for informational purposes only. The final rates will be revealed during the deposit and withdrawal requests. When a cryptocurrency withdrawal request is processed by a payment provider, the exchange rate at the moment of the request will be used."
+  },
+  "payu_money_screen":{
+    "title":"PayUMoney",
+    "popup_dialog":{
+      "title":"Are you sure you want to exit?",
+      "info":"All payment progress in this session will be lost.",
+      "btn_yes":"Yes",
+      "btn_no":"No"
+    }
+  },
+  "advcash_screen":{
+    "title":"ADV Cash",
+    "popup_dialog":{
+      "title":"Are you sure you want to exit?",
+      "info":"All payment progress in this session will be lost.",
+      "btn_yes":"Yes",
+      "btn_no":"No"
+    }
+  },
+  "add_fund_screen": {
+    "title":"Add Funds",
+    "info":"Please select a provider below. These links connect to a third party service.",
+    "btn_select":"Select",
+    "info_popup_dialog":{
+      "title":"About Providers",
+      "details":"Providers allow you to add funds from your account. They determine Their own rates and restrictions depending on various factors. Please visit the provider's website for specific help.",
+      "btn_dismiss":"Dismiss"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-notification2">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="notification2" clip-path="url(#clip-notification2)">
+    <circle id="Ellipse_46" data-name="Ellipse 46" cx="3" cy="3" r="3" transform="translate(22 2)" fill="#fd4f1e"/>
+    <g id="noun_notification_4081592" transform="translate(-185.437 504)">
+      <g id="noun_notification_1521825" transform="translate(190.437 -501)">
+        <g id="Group_589" data-name="Group 589" transform="translate(0 0)">
+          <path id="Path_656" data-name="Path 656" d="M30.182,22.409a.447.447,0,0,0,.079-.265V16.586a8.269,8.269,0,0,0-5.584-7.781.336.336,0,0,0,.026-.159,2.647,2.647,0,1,0-5.293,0,.336.336,0,0,0,.026.159,8.269,8.269,0,0,0-5.584,7.781v5.558a.447.447,0,0,0,.079.265A3.165,3.165,0,0,0,12,25.32v.529h6.881a3.176,3.176,0,0,0,6.352,0h6.881V25.32A3.165,3.165,0,0,0,30.182,22.409ZM22.057,7.059a1.592,1.592,0,0,1,1.588,1.482,8.019,8.019,0,0,0-3.176,0A1.592,1.592,0,0,1,22.057,7.059ZM14.911,22.144V16.586a7.146,7.146,0,1,1,14.292,0v5.584c-.079,0-.185-.026-.265-.026H14.911Zm7.146,5.822a2.123,2.123,0,0,1-2.117-2.117h4.235A2.123,2.123,0,0,1,22.057,27.967Zm-8.919-3.176A2.128,2.128,0,0,1,15.176,23.2H28.938a2.1,2.1,0,0,1,2.038,1.588Z" transform="translate(-12 -6)" fill="#fff" stroke="#fff" stroke-width="0.2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

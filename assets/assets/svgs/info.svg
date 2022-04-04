@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-gameinfo">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="gameinfo" clip-path="url(#clip-gameinfo)">
+    <g id="Group_583" data-name="Group 583">
+      <g id="Group_582" data-name="Group 582">
+        <g id="Icon_feather-info" data-name="Icon feather-info" transform="translate(-1 -1)">
+          <path id="Path_100" data-name="Path 100" d="M23,13A10,10,0,1,1,13,3,10,10,0,0,1,23,13Z" fill="none" stroke="#fa502c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <path id="Union_3" data-name="Union 3" d="M2708-1591v-4a1,1,0,0,1,1-1,1,1,0,0,1,1,1v4a1,1,0,0,1-1,1A1,1,0,0,1,2708-1591Zm0-8a1,1,0,0,1,1-1,1,1,0,0,1,1,1,1,1,0,0,1-1,1A1,1,0,0,1,2708-1599Z" transform="translate(-2697 1607)" fill="#fa502c"/>
+    </g>
+  </g>
+</svg>

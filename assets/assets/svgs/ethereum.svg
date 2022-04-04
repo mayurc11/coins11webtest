@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <clipPath id="clip-ethereal">
+      <rect width="46" height="46"/>
+    </clipPath>
+  </defs>
+  <g id="ethereal" clip-path="url(#clip-ethereal)">
+    <g id="eth" transform="translate(-0.215 -0.361)">
+      <circle id="Ellipse_34" data-name="Ellipse 34" cx="23" cy="23" r="23" transform="translate(0.215 0.361)" fill="#627eea"/>
+      <g id="Group_489" data-name="Group 489" transform="translate(13.039 5.795)">
+        <path id="Path_620" data-name="Path 620" d="M16.5,4V16.851L27.359,21.7Z" transform="translate(-5.635 -4)" fill="rgba(255,255,255,0.6)"/>
+        <path id="Path_621" data-name="Path 621" d="M19.863,4,9,21.7l10.863-4.853Z" transform="translate(-9 -4)" fill="#fff"/>
+        <path id="Path_622" data-name="Path 622" d="M16.5,23.921v8.732L27.367,17.616Z" transform="translate(-5.635 2.11)" fill="rgba(255,255,255,0.6)"/>
+        <path id="Path_623" data-name="Path 623" d="M19.863,32.653V23.92L9,17.616Z" transform="translate(-9 2.11)" fill="#fff"/>
+        <path id="Path_624" data-name="Path 624" d="M16.5,24.029l10.861-6.306L16.5,12.872Z" transform="translate(-5.635 -0.019)" fill="rgba(255,255,255,0.2)"/>
+        <path id="Path_625" data-name="Path 625" d="M9,17.722l10.863,6.306V12.872Z" transform="translate(-9 -0.019)" fill="rgba(255,255,255,0.6)"/>
+      </g>
+    </g>
+  </g>
+</svg>
